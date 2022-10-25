@@ -1,5 +1,5 @@
 # Hi👋, I’m Ronit Shetty
-I am a Computer Science Engineering undergrature with interest in Data Science, Machine Learning and Web Technologies. 
+I am a Computer Science Engineering undergrature with interests in Data Science, Machine Learning and Web Technologies. 
 ## My Tech Stack
 - Python, C++ and JavaScript
 - Machine Learning and Deep Learning
