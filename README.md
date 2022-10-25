@@ -1,6 +1,14 @@
-- 👋 Hi, I’m Ronit Shetty
-- 👀 I’m interested in Data Science, Machine Learning and Web Technologies
-- 🌱 I’m currently pursuing Computer Science Engineering  
+# Hi👋, I’m Ronit Shetty
+I am a Computer Science Engineering undergrature with interest in Data Science, Machine Learning and Web Technologies. 
+## My Tech Stack
+- Python, C++ and JavaScript
+- Machine Learning and Deep Learning
+- React.js
+- HTML and CSS
+- Node.js and Express.js
+
+
+![Ronit Shetty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitshetty16&show_icons=true&theme=merko)
 
 
 
