@@ -7,7 +7,7 @@ I am a Computer Science Engineering undergrature with interests in Data Science,
 - HTML and CSS
 - Node.js and Express.js
 
-🖥️  See my portfolio at ronitshetty.netlify.app
+🖥️  See my portfolio at [ronitshetty.netlify.app](https://ronitshetty.netlify.app/)
 
 ![Ronit Shetty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitshetty16&show_icons=true&theme=merko)
 
