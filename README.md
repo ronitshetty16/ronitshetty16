@@ -1,11 +1,6 @@
 # Hi👋, I’m Ronit Shetty
-I am a Computer Science Engineering undergrature with interests in Data Science, Machine Learning and Embedded Systems. 
-## My Tech Stack
-- Python, C++ and JavaScript
-- Machine Learning and Deep Learning
-- React.js
-- ROS
-- Node.js and Express.js
+I am a graduate student pursuing MS in Robotics with interests in Data Science, Machine Learning and Embedded Systems. 
+
 
 🖥️  See my portfolio at [ronitshetty.netlify.app](https://ronitshetty.netlify.app/)
 
