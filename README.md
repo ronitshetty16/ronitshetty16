@@ -1,4 +1,4 @@
-# Hi👋, I’m Ronit Shetty
+# Ronit Shetty
 I am a graduate student pursuing MS in Robotics with interests in Data Science, Machine Learning and Embedded Systems. 
 
 
